@@ -1,0 +1,19 @@
+{
+  "name": "node-worker-threads",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "start": "nodemon app.js"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "nodemon": "^2.0.4"
+  },
+  "dependencies": {
+    "inquirer": "^7.3.3",
+    "ora": "^5.0.0"
+  }
+}
